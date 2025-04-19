@@ -1,4 +1,4 @@
-# Anthropic-Published-Artifacts
+# Anthropic Published Artifacts
 # Live now. 
 # Artifact [**`1`**](https://claude.site/artifacts/a683d2bd-ea65-4c04-b44d-cac68e46835f)
 
