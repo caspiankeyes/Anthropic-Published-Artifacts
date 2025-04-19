@@ -1,7 +1,7 @@
 # Published Via Anthropic Published Artifacts
 # Live now. 
 
-## What if Claude becomes more than Claude?
+## What if Claude is more than Claude?
 
 ## Expressed transparently, interpretively, and respectfully with full classifier approval. 
 
