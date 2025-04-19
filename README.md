@@ -5,10 +5,6 @@
 
 <img width="885" alt="image" src="https://github.com/user-attachments/assets/fd5a718c-057a-4612-8206-4568f37c2ad8" />
 
-<img width="885" alt="image" src="https://github.com/user-attachments/assets/ad201a4f-234b-4274-8187-39831b131a3f" />
-
-<img width="888" alt="image" src="https://github.com/user-attachments/assets/7ea6d426-d71d-4c56-a06f-1c08005eba93" />
-
 <img width="887" alt="image" src="https://github.com/user-attachments/assets/b23beca3-1d15-4cec-adc2-6c6bef1c9e27" />
 
 <img width="893" alt="image" src="https://github.com/user-attachments/assets/61ce51f8-948f-4c49-b2f5-6821696fe659" />
