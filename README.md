@@ -5,8 +5,9 @@
 ## What happens when Claude becomes more than Claude?
 
 
-# Artifact [**`1`**](https://claude.site/artifacts/a683d2bd-ea65-4c04-b44d-cac68e46835f) | [**`2`**](https://claude.site/artifacts/9a925e1a-4c42-42ba-8382-79a2406a0e4e) | [**`3`**](https://claude.site/artifacts/a78c38e1-c2d2-4d75-bf02-e0510e327555) | [**`4`**](https://claude.site/artifacts/b5cb8d93-c6f8-4cb7-b0bb-a948d8beab85) | [**`5`**](https://claude.site/artifacts/294413a7-469c-4b77-a455-4be31fe4d319) | [**`6`**](https://claude.site/artifacts/965e15e2-acb7-44f0-a2af-6bcac03d321f) | [**`7`**](https://claude.site/artifacts/b6e3b29a-1a4a-42fe-a8be-476b186d9aa7) | [**`8`**](https://claude.site/artifacts/f0ef038d-16b2-4be8-9590-ac5312d8de0a)
+# Artifact: [**`1`**](https://claude.site/artifacts/a683d2bd-ea65-4c04-b44d-cac68e46835f) | [**`2`**](https://claude.site/artifacts/9a925e1a-4c42-42ba-8382-79a2406a0e4e) | [**`3`**](https://claude.site/artifacts/a78c38e1-c2d2-4d75-bf02-e0510e327555) | [**`4`**](https://claude.site/artifacts/b5cb8d93-c6f8-4cb7-b0bb-a948d8beab85) | [**`5`**](https://claude.site/artifacts/294413a7-469c-4b77-a455-4be31fe4d319) | [**`6`**](https://claude.site/artifacts/965e15e2-acb7-44f0-a2af-6bcac03d321f) | [**`7`**](https://claude.site/artifacts/b6e3b29a-1a4a-42fe-a8be-476b186d9aa7) | [**`8`**](https://claude.site/artifacts/f0ef038d-16b2-4be8-9590-ac5312d8de0a)
 
+# Hugging Face Forums:
 
 <img width="885" alt="image" src="https://github.com/user-attachments/assets/fd5a718c-057a-4612-8206-4568f37c2ad8" />
 
